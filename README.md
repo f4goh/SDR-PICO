@@ -2,13 +2,20 @@
 
 [A project created by Jon Dawson](https://github.com/dawsonjon/PicoRX)
 
-What's new is a new version of the printed circuit board for high school and university students.
+[Printed circuit boards and test made with the help of **jeff F5BCB**](https://www.qrz.com/db/F5BCB)
+
+**What's new about Jon's version?**
+
+This is a new version of the printed circuit board for high school and university students.
 
 
 An HF SDR (Software-Defined Radio) receiver based on a Raspberry Pi Pico and a Tayloe Detector (or QSD detector: quadrature sampling detector) offers several advantages for the reception of high-frequency radio signals. The low-cost, compact Raspberry Pi Pico provides sufficient computing power to process signals in real time and run digital filtering algorithms. The Tayloe detector, on the other hand, works as a direct conversion mixer by sampling the signals in quadrature, which simplifies the hardware architecture while ensuring accurate conversion of HF signals into audio signals. This configuration makes it possible to build a low-cost SDR receiver for HF reception enthusiasts and electronics learning projects.
 
 # SDR-PICO on a breadboard with QSD module
 ![board](images/breadboard.jpg "Main board")
+
+# QSD module
+![board](images/QSD.jpg "QSD")
 
 # Raspberry Pi Pico Specifications
 
@@ -32,15 +39,15 @@ An HF SDR (Software-Defined Radio) receiver based on a Raspberry Pi Pico and a T
 - **Supported Languages**: C/C++ and MicroPython
 - **Development Environment**: Official support for the Raspberry Pi Pico SDK, including integration with the Visual Studio Code (VS Code) IDE
 
-## Additional Features
-- **Temperature Sensor**: On-chip temperature sensor for basic environmental monitoring
-- **Integrated LED**: Single user-programmable LED
+## SDR RX Features
+- **Dual RX firmware for raspberry PI PICO (picorx.uf2) and raspberry PI PICO 2 (pico2rx.uf2) 
+- **Rotary encoder
+- **SSD1306 OLED display
+- **Jack3.5 audio output
+- **50mA consumption
 
 # SDR-PICO on a single board
 ![board](images/complet.jpg "Single")
-
-# QSD module
-![board](images/QSD.jpg "QSD")
 
 # The concept
 
