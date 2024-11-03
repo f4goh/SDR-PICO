@@ -14,7 +14,7 @@ An HF SDR (Software-Defined Radio) receiver based on a Raspberry Pi Pico and a T
 # SDR-PICO on a breadboard with QSD module
 ![board](images/breadboard.jpg "Main board")
 
-# QSD module
+# QSD module on the breadboard
 ![board](images/QSD.jpg "QSD")
 
 # Raspberry Pi Pico Specifications
@@ -40,11 +40,11 @@ An HF SDR (Software-Defined Radio) receiver based on a Raspberry Pi Pico and a T
 - **Development Environment**: Official support for the Raspberry Pi Pico SDK, including integration with the Visual Studio Code (VS Code) IDE
 
 ## SDR RX Features
-- **Dual RX firmware for raspberry PI PICO (picorx.uf2) and raspberry PI PICO 2 (pico2rx.uf2) 
-- **Rotary encoder
-- **SSD1306 OLED display
-- **Jack3.5 audio output
-- **50mA consumption
+- **Dual RX firmware for raspberry PI PICO (picorx.uf2) and raspberry PI PICO 2 (pico2rx.uf2)**
+- **Rotary encoder**
+- **SSD1306 OLED display**
+- **Jack3.5 audio output**
+- **50mA consumption**
 
 # SDR-PICO on a single board
 ![board](images/complet.jpg "Single")
