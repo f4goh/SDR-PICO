@@ -18,5 +18,7 @@
 
 ![board](rx17m.png "RX3")
 
+#audio file (Right clic, Save link target as)
+
 [Listen to the audio file](https://github.com/f4goh/SDR-PICO/blob/main/results/phone40m.mp3)
 
