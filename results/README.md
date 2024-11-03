@@ -18,5 +18,5 @@
 
 ![board](rx17m.png "RX3")
 
-[Listen to the audio file](https://raw.githubusercontent.com/f4goh/SDR-PICO/results/phone40m.mp3)
+[Listen to the audio file](https://github.com/f4goh/SDR-PICO/blob/main/results/phone40m.mp3)
 
