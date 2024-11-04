@@ -45,6 +45,7 @@ An HF SDR (Software-Defined Radio) receiver based on a Raspberry Pi Pico and a T
 - **SSD1306 OLED display**
 - **Jack3.5 audio output**
 - **50mA consumption**
+- [**PAM8403 audio amplifier**](https://fr.aliexpress.com/item/1005001689998894.html)
 
 # SDR-PICO on a single board
 ![board](images/complet.jpg "Single")
@@ -68,6 +69,10 @@ An HF SDR (Software-Defined Radio) receiver based on a Raspberry Pi Pico and a T
 ![board](images/complet_pcb.png "board")
 
 ![board](images/PCB.png "board")
+
+##PAM8403 audio amplifier
+
+![board](images/ampli.jpg "ampli")
 
 
 ## Usefull links
