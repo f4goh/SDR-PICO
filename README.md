@@ -17,6 +17,10 @@ An HF SDR (Software-Defined Radio) receiver based on a Raspberry Pi Pico and a T
 # QSD module on the breadboard
 ![board](images/QSD.jpg "QSD")
 
+# Waterfall Color LCD
+![board](results/waterfall.jpg "waterfall")
+
+
 # Raspberry Pi Pico Specifications
 
 ## Core Features
@@ -45,6 +49,10 @@ An HF SDR (Software-Defined Radio) receiver based on a Raspberry Pi Pico and a T
 - **SSD1306 OLED display**
 - **Jack3.5 audio output**
 - **50mA consumption**
+- **Audio input via USB**
+- **CAT system (Kenwood TS-480 emulation)**
+
+
 - [**PAM8403 audio amplifier**](https://fr.aliexpress.com/item/1005001689998894.html)
 
 # SDR-PICO on a single board
@@ -83,6 +91,7 @@ An HF SDR (Software-Defined Radio) receiver based on a Raspberry Pi Pico and a T
 
 - [Github main project](https://github.com/dawsonjon/PicoRX)
 
+- [Waterfall Add-on](https://101-things.readthedocs.io/en/latest/breadboard_radio_part3.html)
 
 
 
