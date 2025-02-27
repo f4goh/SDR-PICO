@@ -46,7 +46,7 @@ An HF SDR (Software-Defined Radio) receiver based on a Raspberry Pi Pico and a T
 ## SDR RX Features
 - **Dual RX firmware for raspberry PI PICO (picorx.uf2) and raspberry PI PICO 2 (pico2rx.uf2)**
 - **Rotary encoder**
-- **SSD1306 OLED display**
+- **SSD1306 OLED display with mini waterfall**
 - **Jack3.5 audio output**
 - **50mA consumption**
 - **Audio input via USB**
