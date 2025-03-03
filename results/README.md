@@ -18,16 +18,11 @@
 
 ![board](rx17m.png "RX3")
 
-# Waterfall with ILI9341-based TFT display (Right clic, Save link target as)
+# Waterfall with ILI9341-based TFT display
 
 [view the video file](https://github.com/f4goh/SDR-PICO/blob/main/results/test_waterfall.mp4)
 
-<video width="320" height="240" controls>
-  <source src="https://github.com/f4goh/SDR-PICO/blob/main/results/test_waterfall.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-# audio file (Right clic, Save link target as)
+# audio file 
 
 [Listen to the audio file](https://github.com/f4goh/SDR-PICO/blob/main/results/phone40m.mp3)
 
