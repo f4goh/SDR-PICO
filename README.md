@@ -18,7 +18,9 @@ An HF SDR (Software-Defined Radio) receiver based on a Raspberry Pi Pico and a T
 ![board](images/QSD.jpg "QSD")
 
 # Waterfall Color LCD
-![board](results/waterfall.jpg "waterfall")
+![board](results/water_new.jpg "waterfall")
+
+![board](results/water_new2.jpg "waterfall2")
 
 
 # Raspberry Pi Pico Specifications
