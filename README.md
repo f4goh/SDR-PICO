@@ -83,7 +83,7 @@ An HF SDR (Software-Defined Radio) receiver based on a Raspberry Pi Pico and a T
 
 ![board](images/PCB.png "board")
 
-![board](images/SDRpico filtreV2.png "filter")
+![board](images/SDRpico_filtreV2.png "filter")
 
 
 ## PAM8403 audio amplifier
