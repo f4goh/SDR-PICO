@@ -22,6 +22,8 @@ An HF SDR (Software-Defined Radio) receiver based on a Raspberry Pi Pico and a T
 
 ![board](images/water_new2.jpg "waterfall2")
 
+[Waterfall Add-on](https://101-things.readthedocs.io/en/latest/breadboard_radio_part3.html)
+
 
 # Raspberry Pi Pico Specifications
 
@@ -73,12 +75,16 @@ An HF SDR (Software-Defined Radio) receiver based on a Raspberry Pi Pico and a T
 
 ![schematics](schematics/rpi+qsd2.png "schematics")
 
+![filter](schematics/filter.png "filter")
 
 ## PCB
 
 ![board](images/complet_pcb.png "board")
 
 ![board](images/PCB.png "board")
+
+![board](images/SDRpico filtreV2.png "filter")
+
 
 ## PAM8403 audio amplifier
 
